@@ -1,9 +1,9 @@
 {
-  "build": 23,
-  "version": "24.10.8-mini-23",
+  "build": 24,
+  "version": "24.10.8-mini-24",
   "date": "2026-09-25",
-  "notes": "Панель перестала гальмувати: головний екран оновлювався 3,5 с через опитування дисків — тепер 0,1 с. Замір швидкості показує правду (файл віддає веб-сервер, а не скрипт): 92 Мбіт/с замість 5. Процесор показано у відсотках, а не «середньою чергою». Плавна стрілка.",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-23/xiaomi-mini-keenetic-24.10.8-mini-23-sysupgrade.bin",
+  "notes": "Показник процесора рахується від часу простою — більше не показує 100% на порожньому пристрої.",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-24/xiaomi-mini-keenetic-24.10.8-mini-24-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "fc331a3e84945a97eac9fb76072eca169eb7c5497b4ce49a90991de4dce64109"
+  "sha256": "64db109e39183ef245ba23abd67701f69846a6719fa47d7f71668c2fbfb2c0e6"
 }
