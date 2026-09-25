@@ -1,9 +1,9 @@
 {
-  "build": 27,
-  "version": "24.10.8-mini-27",
+  "build": 28,
+  "version": "24.10.8-mini-28",
   "date": "2026-09-25",
-  "notes": "Збірка під 32 МБ за замовчуванням і показ вільної пам'яті пристрою",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-27/xiaomi-mini-keenetic-24.10.8-mini-27-sysupgrade.bin",
+  "notes": "Показник процесора не блимає і не бреше",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-28/xiaomi-mini-keenetic-24.10.8-mini-28-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "be0b689916dba7c5a6b70606e49e8be3b7fa68f71ab6583baa4a3b8055cce0f1"
+  "sha256": "67ebfb0045aa38e79999c543bf501b3f189e6ba75006318cf134aeeac5207f8a"
 }
