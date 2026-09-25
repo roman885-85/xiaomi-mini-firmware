@@ -1,9 +1,9 @@
 {
-  "build": 24,
-  "version": "24.10.8-mini-24",
+  "build": 25,
+  "version": "24.10.8-mini-25",
   "date": "2026-09-25",
-  "notes": "Показник процесора рахується від часу простою — більше не показує 100% на порожньому пристрої.",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-24/xiaomi-mini-keenetic-24.10.8-mini-24-sysupgrade.bin",
+  "notes": "Збірка сама викладає версію в канал оновлень",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-25/xiaomi-mini-keenetic-24.10.8-mini-25-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "64db109e39183ef245ba23abd67701f69846a6719fa47d7f71668c2fbfb2c0e6"
+  "sha256": "03f96edb8a914e94fbd91ee46594c2339396f0d7e4ed7ad8b801644e2a9a60ad"
 }
