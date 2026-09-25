@@ -1,9 +1,9 @@
 {
-  "build": 28,
-  "version": "24.10.8-mini-28",
+  "build": 29,
+  "version": "24.10.8-mini-29",
   "date": "2026-09-25",
-  "notes": "Показник процесора не блимає і не бреше",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-28/xiaomi-mini-keenetic-24.10.8-mini-28-sysupgrade.bin",
+  "notes": "Діагностика: список програм із часткою процесора",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-29/xiaomi-mini-keenetic-24.10.8-mini-29-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "67ebfb0045aa38e79999c543bf501b3f189e6ba75006318cf134aeeac5207f8a"
+  "sha256": "b7d32005b831761c0630253195fbeb68bb6eb276c731659897fd7ce6f3e541cf"
 }
