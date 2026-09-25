@@ -1,9 +1,9 @@
 {
-  "build": 29,
-  "version": "24.10.8-mini-29",
+  "build": 30,
+  "version": "24.10.8-mini-30",
   "date": "2026-09-25",
-  "notes": "Діагностика: список програм із часткою процесора",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-29/xiaomi-mini-keenetic-24.10.8-mini-29-sysupgrade.bin",
+  "notes": "Головний екран говорить словами, а не відсотками й чергами",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-30/xiaomi-mini-keenetic-24.10.8-mini-30-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "b7d32005b831761c0630253195fbeb68bb6eb276c731659897fd7ce6f3e541cf"
+  "sha256": "3aef7d6e26bc276200ac77875df7b608391da224a81ddeea2300ed6f11200320"
 }
