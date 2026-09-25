@@ -1,9 +1,9 @@
 {
-  "build": 19,
-  "version": "24.10.8-mini-19",
+  "build": 20,
+  "version": "24.10.8-mini-20",
   "date": "2026-09-25",
-  "notes": "Режим роутера повністю: PPPoE з назвою служби, L2TP, PPTP, VLAN провайдера, підміна MAC, IPv6, UPnP, динамічний DNS. Карта мережі, файли на флешці, QR гостьової мережі, ярлик на телефон, домашні імена й точний час. Виправлено: резервна копія не завантажувалась, гостьова мережа й дані провайдера не зберігались.",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-19/xiaomi-mini-keenetic-24.10.8-mini-19-sysupgrade.bin",
+  "notes": "Карта мережі не накладається сама на себе, обхід мережі — за кнопкою. Список носіїв показує лише справді під'єднані флешки. Перевірка оновлень лагодить зв'язок із каналом і показує поточну версію.",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-20/xiaomi-mini-keenetic-24.10.8-mini-20-sysupgrade.bin",
   "size": 14287175,
-  "sha256": "fc9547ff35401010abce06b9d798f66c7a69cce2aeb39ea838c90af5702124e8"
+  "sha256": "6cc462911a37a6fa429b0c3e1b4ab6c53c2fa83f260186a668fd25eec2975578"
 }
