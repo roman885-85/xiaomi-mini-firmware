@@ -1,9 +1,9 @@
 {
-  "build": 25,
-  "version": "24.10.8-mini-25",
+  "build": 26,
+  "version": "24.10.8-mini-26",
   "date": "2026-09-25",
-  "notes": "Збірка сама викладає версію в канал оновлень",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-25/xiaomi-mini-keenetic-24.10.8-mini-25-sysupgrade.bin",
+  "notes": "Образ знову збирається під 32 МБ флеша за замовчуванням (версія 25 зібралась без цього)",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-26/xiaomi-mini-keenetic-24.10.8-mini-26-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "03f96edb8a914e94fbd91ee46594c2339396f0d7e4ed7ad8b801644e2a9a60ad"
+  "sha256": "be532c32a3fdf1d11b668baf1dd680bf1bd267252adc3fc2e5a2dda87587f484"
 }
