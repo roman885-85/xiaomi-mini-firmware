@@ -1,9 +1,9 @@
 {
-  "build": 20,
-  "version": "24.10.8-mini-20",
+  "build": 21,
+  "version": "24.10.8-mini-21",
   "date": "2026-09-25",
-  "notes": "Карта мережі не накладається сама на себе, обхід мережі — за кнопкою. Список носіїв показує лише справді під'єднані флешки. Перевірка оновлень лагодить зв'язок із каналом і показує поточну версію.",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-20/xiaomi-mini-keenetic-24.10.8-mini-20-sysupgrade.bin",
-  "size": 14287175,
-  "sha256": "6cc462911a37a6fa429b0c3e1b4ab6c53c2fa83f260186a668fd25eec2975578"
+  "notes": "Спостереження: монітор зв'язку з графіками, історія трафіку по пристроях, журнал приходу-відходу, нічний замір швидкості. Телеграм: сповіщення і бот з командами. Звіт «куди ходять пристрої». Обмеження швидкості гостей.",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-21/xiaomi-mini-keenetic-24.10.8-mini-21-sysupgrade.bin",
+  "size": 14418247,
+  "sha256": "5067c7534c26d004dfeb34d392f308fd2c52664649211bdb59af994594ba60f1"
 }
