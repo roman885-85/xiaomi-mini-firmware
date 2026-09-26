@@ -1,9 +1,9 @@
 {
-  "build": 32,
-  "version": "24.10.8-mini-32",
+  "build": 31,
+  "version": "24.10.8-mini-31",
   "date": "2026-09-26",
-  "notes": "Техніка не бачила мережу: повернули повільні швидкості й порядок мереж",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-32/xiaomi-mini-keenetic-24.10.8-mini-32-sysupgrade.bin",
+  "notes": "Відкат каналу на перевірену версію, поки не з'ясуємо стан пристрою",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-31/xiaomi-mini-keenetic-24.10.8-mini-31-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "2d16443e6e961d81926215c4150030a9a88f5c3e822fbe099a0f6857bff5a33f"
+  "sha256": "a44a577d100052e135393c60be73966714be891b594d24bea2de0414d0d47b34"
 }
