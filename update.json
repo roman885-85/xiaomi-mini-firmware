@@ -1,9 +1,9 @@
 {
-  "build": 30,
-  "version": "24.10.8-mini-30",
-  "date": "2026-09-25",
-  "notes": "Головний екран говорить словами, а не відсотками й чергами",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-30/xiaomi-mini-keenetic-24.10.8-mini-30-sysupgrade.bin",
+  "build": 31,
+  "version": "24.10.8-mini-31",
+  "date": "2026-09-26",
+  "notes": "Після ввімкнення пристрій зайнятий шість хвилин — це не привід лякати",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-31/xiaomi-mini-keenetic-24.10.8-mini-31-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "3aef7d6e26bc276200ac77875df7b608391da224a81ddeea2300ed6f11200320"
+  "sha256": "a44a577d100052e135393c60be73966714be891b594d24bea2de0414d0d47b34"
 }
