@@ -1,9 +1,9 @@
 {
-  "build": 39,
-  "version": "24.10.8-mini-39",
+  "build": 40,
+  "version": "24.10.8-mini-40",
   "date": "2026-09-27",
-  "notes": "Батьківський контроль, розумна черга, резерв через модем і поділки на графіках",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-39/xiaomi-mini-keenetic-24.10.8-mini-39-sysupgrade.bin",
+  "notes": "Сторінка привітання для гостей і виправлення: налаштування застосунків не зберігались",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-40/xiaomi-mini-keenetic-24.10.8-mini-40-sysupgrade.bin",
   "size": 14549319,
-  "sha256": "9def801e74d9a62e1f21d09eeab3f7b8cb9d33301f12ee8c65bd8ac8dd43804a"
+  "sha256": "a5b5f9fc2a2fc90ff3af5a3971d71c19ac90baf96933353e2cf04bdab9853291"
 }
