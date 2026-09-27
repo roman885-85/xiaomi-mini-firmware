@@ -1,9 +1,9 @@
 {
-  "build": 38,
-  "version": "24.10.8-mini-38",
+  "build": 39,
+  "version": "24.10.8-mini-39",
   "date": "2026-09-27",
-  "notes": "Доступ у домашню мережу ззовні і власний значок пристрою",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-38/xiaomi-mini-keenetic-24.10.8-mini-38-sysupgrade.bin",
-  "size": 14418247,
-  "sha256": "50bdc5b138188114301d3ff16d36ac31c6f05f025700828ff82c540b2a0116cc"
+  "notes": "Батьківський контроль, розумна черга, резерв через модем і поділки на графіках",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-39/xiaomi-mini-keenetic-24.10.8-mini-39-sysupgrade.bin",
+  "size": 14549319,
+  "sha256": "9def801e74d9a62e1f21d09eeab3f7b8cb9d33301f12ee8c65bd8ac8dd43804a"
 }
