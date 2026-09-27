@@ -1,9 +1,9 @@
 {
-  "build": 35,
-  "version": "24.10.8-mini-35",
+  "build": 36,
+  "version": "24.10.8-mini-36",
   "date": "2026-09-27",
-  "notes": "Меню і вміст гортаються окремо",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-35/xiaomi-mini-keenetic-24.10.8-mini-35-sysupgrade.bin",
+  "notes": "Торренти, копія на мережевий диск, захист і пробудження пристроїв",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-36/xiaomi-mini-keenetic-24.10.8-mini-36-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "1bf3bd26bc6d060bd473d15f3c4ac3681e5f3011e449e1226925f5d50de5a89e"
+  "sha256": "b8609c9a620c48fa4e2dc4fa61a8c6eb230737a2297169ab596429a93e607425"
 }
