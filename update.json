@@ -1,9 +1,9 @@
 {
-  "build": 34,
-  "version": "24.10.8-mini-34",
+  "build": 35,
+  "version": "24.10.8-mini-35",
   "date": "2026-09-27",
-  "notes": "Правила для пристроїв у налаштуваннях і присмотр за важливими",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-34/xiaomi-mini-keenetic-24.10.8-mini-34-sysupgrade.bin",
+  "notes": "Меню і вміст гортаються окремо",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-35/xiaomi-mini-keenetic-24.10.8-mini-35-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "8de45618cd5b1f17fe2750f7247bc700ab91f3c30ddaf8bf79997800c1860c64"
+  "sha256": "1bf3bd26bc6d060bd473d15f3c4ac3681e5f3011e449e1226925f5d50de5a89e"
 }
