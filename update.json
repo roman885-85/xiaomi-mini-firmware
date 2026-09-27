@@ -1,9 +1,9 @@
 {
-  "build": 33,
-  "version": "24.10.8-mini-33",
+  "build": 34,
+  "version": "24.10.8-mini-34",
   "date": "2026-09-27",
-  "notes": "Точка більше не виганяє пристрої на межі чутності",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-33/xiaomi-mini-keenetic-24.10.8-mini-33-sysupgrade.bin",
+  "notes": "Правила для пристроїв у налаштуваннях і присмотр за важливими",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-34/xiaomi-mini-keenetic-24.10.8-mini-34-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "2118f47eb2dafceb56ec39e8bc2a27e17e1390e08e31caa29d577b36ed187732"
+  "sha256": "8de45618cd5b1f17fe2750f7247bc700ab91f3c30ddaf8bf79997800c1860c64"
 }
