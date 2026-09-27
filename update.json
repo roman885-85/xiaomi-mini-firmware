@@ -1,9 +1,9 @@
 {
-  "build": 37,
-  "version": "24.10.8-mini-37",
+  "build": 38,
+  "version": "24.10.8-mini-38",
   "date": "2026-09-27",
-  "notes": "Телефон отримує меню-список навіть боком і в режимі «версія для комп'ютера»",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-37/xiaomi-mini-keenetic-24.10.8-mini-37-sysupgrade.bin",
+  "notes": "Доступ у домашню мережу ззовні і власний значок пристрою",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-38/xiaomi-mini-keenetic-24.10.8-mini-38-sysupgrade.bin",
   "size": 14418247,
-  "sha256": "807067876e70c99a0663922fb86e6e5a579df62ef65d72340d09986314710e44"
+  "sha256": "50bdc5b138188114301d3ff16d36ac31c6f05f025700828ff82c540b2a0116cc"
 }
