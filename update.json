@@ -1,9 +1,9 @@
 {
-  "build": 40,
-  "version": "24.10.8-mini-40",
+  "build": 41,
+  "version": "24.10.8-mini-41",
   "date": "2026-09-27",
-  "notes": "Сторінка привітання для гостей і виправлення: налаштування застосунків не зберігались",
-  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-40/xiaomi-mini-keenetic-24.10.8-mini-40-sysupgrade.bin",
+  "notes": "Вихід через чужий VPN для вибраних пристроїв",
+  "url": "https://github.com/roman885-85/xiaomi-mini-firmware/releases/download/mini-41/xiaomi-mini-keenetic-24.10.8-mini-41-sysupgrade.bin",
   "size": 14549319,
-  "sha256": "a5b5f9fc2a2fc90ff3af5a3971d71c19ac90baf96933353e2cf04bdab9853291"
+  "sha256": "fa48633dd5ec302832c5ff15f7c2ba85a16d5895d0d97e4c6881af0320ad200d"
 }
